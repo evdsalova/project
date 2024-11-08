@@ -6,7 +6,4 @@ This is awesome project.
 [Author](author.md)
 
 
-
-
-
 ## Conflict
